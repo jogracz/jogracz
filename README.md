@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jogracz
-- 👀 I’m interested in frontend, image processing, psychology, dogs, nature, travels, sociology, movies, theater and some more
+- 👀 I’m interested in frontend, image processing, games, psychology, dogs, nature, travels, sociology, movies, theater and some more
 
 
 <!---
